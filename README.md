@@ -12,7 +12,8 @@ A simple and responsive weather application that provides real-time weather upda
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\KANI\OneDrive\Pictures\Screenshots\Screenshot.png")
+![Screenshot 2025-05-23 012655](https://github.com/user-attachments/assets/14f999d1-5b81-4b25-9028-ccd8dc16271b)
+
 
 ## Technologies Used
 
