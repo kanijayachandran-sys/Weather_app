@@ -19,7 +19,7 @@ A simple and responsive weather application that provides real-time weather upda
 
 - HTML
 - CSS
-- JavaScript (or React, Vue, Angular - specify your framework if you used any)
+- JavaScript
 - Weather API (e.g., OpenWeatherMap API)
 
 ## Getting Started
